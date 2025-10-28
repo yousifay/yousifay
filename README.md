@@ -9,17 +9,19 @@
 
 ## 🚀 About Me
 
-I'm a multidisciplinary engineer passionate about embedded systems, control engineering, and digital transformation. With professional experience in electronics R&D and industrial process improvement, I enjoy bridging the gap between hardware and systems thinking.  
+I’m an analytical and results-oriented professional with 7+ years of experience across industrial, manufacturing, and technology sectors, specializing in turning operational and financial data into scalable business strategies.
 
-I'm also passionate about applying machine learning and simulation techniques to real-world problems—from flood prediction to production line optimization.
+Passionate about digital transformation, I use data analytics, AI, and Lean/Six Sigma to drive efficiency, optimize performance, and enable smart decision-making in complex, high-growth environments.
+
 
 ---
 ## 🛠️ Skills & Tools
 
 - **Languages**: Python, C/C++, MATLAB
+- **Strategic & Data Analysis**: Delivered market and financial insights (SWOT, Porter’s Five Forces) to guide investment decisions.
 - **Embedded Systems**: RTOS, Simulink, Microcontrollers, Sensors (IMU, GPS)
 - **Software**: Git, Linux, MS Office
-- **Methods**: A3, Scrum, Lean, PID Control, ML
+- **Methods**: A3, Scrum, Lean, PID Control, ML, LLM, RAG
 - **Languages**: English (Fluent), Arabic (Native)
 
 ---
